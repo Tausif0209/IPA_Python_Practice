@@ -1,0 +1,8 @@
+2026-02-21 07:06:14,394 - INFO - Orignal List:-[4, 2, 4, 1, 2, 3, 1]
+After removing duplicates:-[4, 2, 1, 3]
+2026-02-21 07:06:57,799 - INFO - Orignal List:-[4, 2, 1]
+After removing duplicates:-[4, 2, 1]
+2026-02-21 07:07:13,074 - INFO - Orignal List:-[1, 2, 2, 2, 2, 4, 5, 5]
+After removing duplicates:-[1, 2, 4, 5]
+2026-02-21 07:12:25,642 - INFO - Orignal List:-[4, 5, 52, 52, 1]
+After removing duplicates:-[4, 5, 52, 1]
